@@ -1,0 +1,3 @@
+[submodule "bitigloo-test-sub-module"]
+	path = bitigloo-test-sub-module
+	url = https://github.com/bitigloo-vidhi/bitigloo-test-sub-module.git
